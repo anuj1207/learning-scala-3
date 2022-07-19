@@ -1,2 +1,8 @@
 *.class
 *.log
+.bsp
+.idea
+target
+
+# Do not ignore scala sources
+!src/**/scala/**
